@@ -1,0 +1,17 @@
+# Local clipboard history and user preferences (never publish)
+/data/
+/backups/
+/work/
+/tests/
+/outputs/
+*.db
+*.db-*
+*.log
+*.pdb
+# Distribute built apps through GitHub Releases
+*.exe
+*.zip
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
